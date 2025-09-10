@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/HopeForAllNGO/static/css/main.aa674324.css",
-    "main.js": "/HopeForAllNGO/static/js/main.5c5ae893.js",
+    "main.js": "/HopeForAllNGO/static/js/main.a6a68903.js",
     "index.html": "/HopeForAllNGO/index.html",
     "main.aa674324.css.map": "/HopeForAllNGO/static/css/main.aa674324.css.map",
-    "main.5c5ae893.js.map": "/HopeForAllNGO/static/js/main.5c5ae893.js.map"
+    "main.a6a68903.js.map": "/HopeForAllNGO/static/js/main.a6a68903.js.map"
   },
   "entrypoints": [
     "static/css/main.aa674324.css",
-    "static/js/main.5c5ae893.js"
+    "static/js/main.a6a68903.js"
   ]
 }
