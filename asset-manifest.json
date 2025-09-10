@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HopeForAllNGO/static/css/main.aa674324.css",
+    "main.js": "/HopeForAllNGO/static/js/main.699ca2bc.js",
+    "index.html": "/HopeForAllNGO/index.html",
+    "main.aa674324.css.map": "/HopeForAllNGO/static/css/main.aa674324.css.map",
+    "main.699ca2bc.js.map": "/HopeForAllNGO/static/js/main.699ca2bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa674324.css",
+    "static/js/main.699ca2bc.js"
+  ]
+}
